@@ -1,0 +1,8 @@
+{
+    "CreateAPIKey": 1,
+    "AppSyncApiName": "buildopstest",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "S3DeploymentBucket": "amplify-buildopstest-ampltest-111504-deployment",
+    "S3DeploymentRootKey": "amplify-appsync-files/f3048b45417fc7a09480658cf0681bed4eed451e"
+}
